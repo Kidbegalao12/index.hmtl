@@ -13,7 +13,7 @@
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu o mateus_</p>
-        <h1>Eu ensino Programação</h1>
+        <h1></h1>
         <p>sou aluno da escola joao antunes alexandre, do terceiro ano
             que já desenvolvi!</p>
         <p>Minhas habilidades</p>
